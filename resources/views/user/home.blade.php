@@ -1,6 +1,6 @@
 @extends('layouts.app')
-# @Date:   2019-10-22T14:45:01+01:00
-# @Last modified time: 2019-11-11T18:11:30+00:00
+# @Date:   2019-11-11T17:17:29+00:00
+# @Last modified time: 2019-11-11T17:17:41+00:00
 
 
 
@@ -19,7 +19,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    You are logged in as a user!
                 </div>
             </div>
         </div>
